@@ -213,6 +213,9 @@ The vacuum entity holds the ability to control most things the vacuum can do, su
 - **Last clean end**
   - **Description**: The last time that your vacuum finished cleaning.
 
+- **Last clean result**
+  - **Description**: How your vacuum's last cleaning run ended, as shown in the cleaning history of the Roborock app. For example, 'Finished cleaning', 'Area unreachable', or 'Positioning failed'. A run that ends early without a device error shows up here, while **Vacuum error** stays empty.
+
 - **Total cleaning time**
   - **Description**: The lifetime cleaning duration of your vacuum.
 
